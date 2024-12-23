@@ -1,5 +1,5 @@
 # ubulk to wav
-- 将 .ubulk .bnk .wem 音频文件转为 wav , 适用于部分UE引擎游戏解包音频的处理
+- 将 .ubulk .bnk .wem 音频文件转为 wav , 适用于部分 UE引擎 / Unity引擎 游戏音频资产 处理
 
 ![UI_StampL_255](https://github.com/user-attachments/assets/7dc53bc9-6c08-4e45-9cdd-d08b7336ed94)
 - -------------
