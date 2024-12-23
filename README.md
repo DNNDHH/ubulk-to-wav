@@ -5,7 +5,8 @@
 - -------------
 
 # ubulk / bnk / wem 文件放在目录下，运行exe 将自动转换为 wav无损音频 和 mp3音频
- ![QQ图片20240829170740](https://github.com/user-attachments/assets/cf375608-0005-4dd8-abe1-4c21bdbb4603)
+ ![屏幕截图 2024-12-23 151640](https://github.com/user-attachments/assets/2b1bb5b7-08a5-4414-8fe7-08da52f4b48d)
+
 
 
 - -------------
